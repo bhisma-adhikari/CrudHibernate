@@ -23,7 +23,7 @@ nationality                  last_name               price               estd
 </pre>
 
 - Hibernate configuration is written in src/main/resources/hibernate.cfg.xml. 
-  - Make sure you have you have updated mysql credentials to yours.  
+  - Make sure you have updated mysql credentials to yours.  
 - Dependencies are managed with maven (see pom.xml) 
 
 
